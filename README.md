@@ -25,3 +25,25 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+# Command
+1. install nodejs
+2. install npm
+3. npm install -g @angular/cli
+4. ng new iffah_ui
+5. cd iffah_ui
+6. ng serve
+7. npm i bootstrap@5.3.3
+8. create dockerfile
+9. docker build -t iffah_ui .
+10. docker run --network host -d iffah_ui
+
+
+# Architecture
+1. Operational Excellence
+2. Security
+3. Reliability
+4. Performance Efficiency
+5. Cost Optimization
+6. Sustainability
